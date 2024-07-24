@@ -1,0 +1,9 @@
+                                                         ONLINE FOOD ORDERING APPLICATION
+
+-HomePage:we need a homepage for our application to interact 
+-SearchBar:it is used to search the food and restuarant which we want to order
+-LoginPage:it is used to identify the user and login in homepage
+-RegistrationPage:we need a registration page to register the user account with details
+-Software Application: we need a software application to create digital infrastructure
+
+-
